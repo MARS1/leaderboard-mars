@@ -1,0 +1,1 @@
+Static assets (fonts,imgages,etc.) go inside of the public directory
